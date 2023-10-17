@@ -2,6 +2,9 @@
 
 # Project Specification.
 Project_Small_electronics_tester implemented on STM32F407VGT6.The project is based on a 32 bit processor of the STM family. PCB is designed on 4 layers.
+The device is originally used to test simple digital circuits.
+
+
 # Languages and Tools.
 - OS: Ubuntu 
 - Languages: C/C++,GCC 
