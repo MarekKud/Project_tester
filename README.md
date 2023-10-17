@@ -6,7 +6,7 @@ The device is originally used to test simple digital circuits.The design also in
 
 
 # Languages and Tools.
-- OS: Ubuntu 
+- OS: Linux Ubuntu 
 - Languages: C/C++,GCC 
 - IDEs : STM32CubeMX ,STM32CubeIDE, Qt 6.4.0 
 - Programmer : J-Link Jtag 
