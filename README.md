@@ -18,9 +18,4 @@ The device is originally used to test simple digital circuits.The design also in
 ![tester](https://github.com/MarekKud/Project_tester/assets/92340461/ca217a09-96d3-4c73-90ac-d71290106622)
 # PCB Transparent
 ![PCB transparet](https://github.com/MarekKud/Project_tester/assets/92340461/f658d374-54a0-4045-8f9a-d21181044af5)
-# APP 
-![Tester](https://github.com/MarekKud/Project_tester/assets/92340461/e259842e-68d2-4b3a-b719-46b0e1fea3ab)
 
-# App test 
-
-![Tester1](https://github.com/MarekKud/Project_tester/assets/92340461/63f2265f-619b-4c83-90b4-2b6095f8a6b4)
