@@ -1,7 +1,7 @@
 # Project_Tester
 
 # Project Specification.
-Project_Small_electronics_tester implemented on STM32F407VGT6.The project is based on a 32 bit processor of the STM family. PCB is designed on 4 layers.
+Project_Small_electronics_tester implemented on STM32F407VGT6.The project is based on a 32 bit processor of the STMicroelectronics ARM Cortex M4 family. PCB is designed on 4 layers.
 The device is originally used to test simple digital circuits.The design also includes a color display with touchscreen.Communication between the processor and the application is based on the Communication Device Class.
 
 
