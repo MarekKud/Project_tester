@@ -21,6 +21,6 @@ The device is originally used to test simple digital circuits.The design also in
 # APP
 
 ![Tester3](https://github.com/MarekKud/Project_tester/assets/92340461/88561fb8-0609-40b0-966c-fecc0163a149)
-# APP
+# APP test
 
 ![Tester1_2](https://github.com/MarekKud/Project_tester/assets/92340461/e70fb910-357b-4d8c-bc48-8a7d74c92957)
