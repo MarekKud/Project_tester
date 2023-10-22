@@ -20,3 +20,4 @@ The device is originally used to test simple digital circuits.The design also in
 
 # PCB Transparent
 ![PCB transparet](https://github.com/MarekKud/Project_tester/assets/92340461/f658d374-54a0-4045-8f9a-d21181044af5)
+[Schematic.pdf](https://github.com/MarekKud/Project_tester/files/13064353/Schematic.pdf)
