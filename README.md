@@ -15,9 +15,9 @@ The device is originally used to test simple digital circuits.The design also in
 # Diagram 
 ![Diagram](https://github.com/MarekKud/Project_tester/assets/92340461/f6e744b8-2449-4ee7-bee0-e5712d522c76)
 # PCB 
-![tester](https://github.com/MarekKud/Project_tester/assets/92340461/ca217a09-96d3-4c73-90ac-d71290106622)
-![PCBTester](https://github.com/MarekKud/Project_tester/assets/92340461/d5522d69-c746-4c9e-a083-530daf5bffd8)
+![Tester](https://github.com/MarekKud/Project_tester/assets/92340461/d25f13ac-c8fc-4e69-8578-676fa24e7baf)
+
 
 # PCB Transparent
-![PCB transparet](https://github.com/MarekKud/Project_tester/assets/92340461/f658d374-54a0-4045-8f9a-d21181044af5)
 
+![pcbtransparetn](https://github.com/MarekKud/Project_tester/assets/92340461/8ee03f7f-56f1-4bea-a1c0-2f39b2505625)
