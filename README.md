@@ -15,10 +15,12 @@ The device is originally used to test simple digital circuits.The design also in
 # Diagram 
 ![Diagram](https://github.com/MarekKud/Project_tester/assets/92340461/f6e744b8-2449-4ee7-bee0-e5712d522c76)
 # PCB
-![PCB](https://github.com/MarekKud/Project_tester/assets/92340461/098a24c4-0eab-49a5-9c92-a8d71a183ee1)
+![PCB tester](https://github.com/MarekKud/Project_tester/assets/92340461/9d31969e-87c2-4597-bd38-f194a48ce59b)
+
+
 
 # PCB Transparent
 
-![PCBTransparent](https://github.com/MarekKud/Project_tester/assets/92340461/75135696-839c-4324-b1e8-7d8f51ab8d3a)
 
 
+![PCB Transparetn tester](https://github.com/MarekKud/Project_tester/assets/92340461/64e50414-ef3a-4bfb-bfbf-853dcaadf893)
