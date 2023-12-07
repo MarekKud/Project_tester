@@ -15,12 +15,17 @@ The device is originally used to test simple digital circuits.The design also in
 # Diagram 
 ![Diagram](https://github.com/MarekKud/Project_tester/assets/92340461/f6e744b8-2449-4ee7-bee0-e5712d522c76)
 # PCB
-![PCB tester](https://github.com/MarekKud/Project_tester/assets/92340461/9d31969e-87c2-4597-bd38-f194a48ce59b)
 
+![3D](https://github.com/MarekKud/Project_tester/assets/92340461/ed56a41d-2230-4107-a78a-a09cdf8bcdbc)
+
+![3DGreen](https://github.com/MarekKud/Project_tester/assets/92340461/263592c0-75f9-4db7-aa79-59e6de5a078e)
 
 
 # PCB Transparent
 
 
-
-![PCB Transparetn tester](https://github.com/MarekKud/Project_tester/assets/92340461/64e50414-ef3a-4bfb-bfbf-853dcaadf893)
+![1](https://github.com/MarekKud/Project_tester/assets/92340461/ddd5bf9b-5e8f-4329-bbd2-a8133cb31e5b)
+![2Bottom](https://github.com/MarekKud/Project_tester/assets/92340461/4b59d453-896e-4230-b02b-ad04aca3f977)
+![2Gnd](https://github.com/MarekKud/Project_tester/assets/92340461/0c4d4855-ee3d-4ef2-92d4-d77b8335a896)
+![23V3](https://github.com/MarekKud/Project_tester/assets/92340461/5c34b2b1-763b-40c8-b887-74a84324de0b)
+![2TOP](https://github.com/MarekKud/Project_tester/assets/92340461/2a2f5b69-4c35-49f6-97c8-32f2cd72678f)
