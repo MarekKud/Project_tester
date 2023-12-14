@@ -29,6 +29,6 @@ The device is originally used to test simple digital circuits.The design also in
 ![2Gnd](https://github.com/MarekKud/Project_tester/assets/92340461/0c4d4855-ee3d-4ef2-92d4-d77b8335a896)
 ![23V3](https://github.com/MarekKud/Project_tester/assets/92340461/5c34b2b1-763b-40c8-b887-74a84324de0b)
 ![2TOP](https://github.com/MarekKud/Project_tester/assets/92340461/2a2f5b69-4c35-49f6-97c8-32f2cd72678f)
-Für Programmierzwecke wurde außerdem ein Programmier- und Debugging-Adapter erstellt
+- Für Programmierzwecke wurde außerdem ein Programmier- und Debugging-Adapter erstellt
 ![JTAG](https://github.com/MarekKud/Project_tester/assets/92340461/f2cde6e9-3ede-4b54-ab26-e5604e95f780)
 
