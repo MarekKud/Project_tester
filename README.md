@@ -32,7 +32,9 @@ The device is originally used to test simple digital circuits.The design also in
 - Für Programmierzwecke wurde außerdem ein Programmier- und Debugging-Adapter erstellt
 
 ![JTAG](https://github.com/MarekKud/Project_tester/assets/92340461/f2cde6e9-3ede-4b54-ab26-e5604e95f780)
+
 ![tetsplatine](https://github.com/MarekKud/Project_tester/assets/92340461/281c121c-010b-460d-83e2-31f8f0069bad)
+
 ![IMG_20240108_192838](https://github.com/MarekKud/Project_tester/assets/92340461/4394c409-cb41-4f46-a8e0-60d0de0f8d35)
 
 
