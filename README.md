@@ -13,28 +13,37 @@ The device is originally used to test simple digital circuits.The design also in
 - Schematic capture software : Altium 
 - Microcontrollers :STM32F407VGT6
 # Diagram 
-![Diagram](https://github.com/MarekKud/Project_tester/assets/92340461/f6e744b8-2449-4ee7-bee0-e5712d522c76)
+![Diagram](https://github.com/MarekKud/Project_tester/assets/92340461/86a78813-ada8-4112-a0d4-2716a64fb2dc)
+
+
 # PCB
+![3D](https://github.com/MarekKud/Project_tester/assets/92340461/c6a2c2bb-25de-42be-b342-e3db5b002752)
 
-![3D](https://github.com/MarekKud/Project_tester/assets/92340461/ed56a41d-2230-4107-a78a-a09cdf8bcdbc)
+![3DGreen](https://github.com/MarekKud/Project_tester/assets/92340461/9218b922-9737-415c-bef1-46e145685598)
 
-![3DGreen](https://github.com/MarekKud/Project_tester/assets/92340461/263592c0-75f9-4db7-aa79-59e6de5a078e)
 
 
 # PCB Transparent
+![1](https://github.com/MarekKud/Project_tester/assets/92340461/442d2757-e8c3-41bb-af05-a5f584cb5ce2)
+
+![2TOP](https://github.com/MarekKud/Project_tester/assets/92340461/a708f4a4-10d0-4dfe-a2b1-f0d0b9e5ea61)
+
+![2Bottom](https://github.com/MarekKud/Project_tester/assets/92340461/3dcbf93e-b743-4137-bbe2-f51673006c08)
 
 
-![1](https://github.com/MarekKud/Project_tester/assets/92340461/ddd5bf9b-5e8f-4329-bbd2-a8133cb31e5b)
-![2Bottom](https://github.com/MarekKud/Project_tester/assets/92340461/4b59d453-896e-4230-b02b-ad04aca3f977)
-![2Gnd](https://github.com/MarekKud/Project_tester/assets/92340461/0c4d4855-ee3d-4ef2-92d4-d77b8335a896)
-![23V3](https://github.com/MarekKud/Project_tester/assets/92340461/5c34b2b1-763b-40c8-b887-74a84324de0b)
-![2TOP](https://github.com/MarekKud/Project_tester/assets/92340461/2a2f5b69-4c35-49f6-97c8-32f2cd72678f)
+
+
+
+
 - Für Programmierzwecke wurde außerdem ein Programmier- und Debugging-Adapter erstellt
 
 ![JTAG](https://github.com/MarekKud/Project_tester/assets/92340461/f2cde6e9-3ede-4b54-ab26-e5604e95f780)
 - Platine zum Testen elektronischer Komponenten
+![Testerplatine1](https://github.com/MarekKud/Project_tester/assets/92340461/9a596283-db0a-4f44-95b3-ef0145ae05d9)
 
-![tetsplatine](https://github.com/MarekKud/Project_tester/assets/92340461/281c121c-010b-460d-83e2-31f8f0069bad)
+![Testerplatine2](https://github.com/MarekKud/Project_tester/assets/92340461/8be4519c-23ad-4bdb-acb6-dfd0cabe03b6)
+
+
 
 ![IMG_20240108_192838](https://github.com/MarekKud/Project_tester/assets/92340461/4394c409-cb41-4f46-a8e0-60d0de0f8d35)
 
