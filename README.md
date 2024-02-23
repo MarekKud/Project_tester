@@ -38,8 +38,8 @@ The device is originally used to test simple digital circuits.The design also in
 
 
 - Für Programmierzwecke wurde außerdem ein Programmier- und Debugging-Adapter erstellt
-- 
-- ![JTAG](https://github.com/MarekKud/Project_tester/assets/92340461/a5d8ac7a-7148-4805-a6e1-0fea1afe1afb)
+  
+  ![JTAG](https://github.com/MarekKud/Project_tester/assets/92340461/a5d8ac7a-7148-4805-a6e1-0fea1afe1afb)
 
 
 - Platine zum Testen elektronischer Komponenten
