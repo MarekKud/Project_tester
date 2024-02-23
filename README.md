@@ -44,6 +44,7 @@ The device is originally used to test simple digital circuits.The design also in
 ![Testerplatine2](https://github.com/MarekKud/Project_tester/assets/92340461/8be4519c-23ad-4bdb-acb6-dfd0cabe03b6)
 
 
+![Testerplatine1](https://github.com/MarekKud/Project_tester/assets/92340461/6e8be11a-2083-4ab8-823c-291be3067603)
 
 
 
