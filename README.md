@@ -40,7 +40,6 @@ The device is originally used to test simple digital circuits.The design also in
 
 ![JTAG](https://github.com/MarekKud/Project_tester/assets/92340461/f2cde6e9-3ede-4b54-ab26-e5604e95f780)
 - Platine zum Testen elektronischer Komponenten
-![Testerplatine1](https://github.com/MarekKud/Project_tester/assets/92340461/9a596283-db0a-4f44-95b3-ef0145ae05d9)
 
 ![Testerplatine2](https://github.com/MarekKud/Project_tester/assets/92340461/8be4519c-23ad-4bdb-acb6-dfd0cabe03b6)
 
