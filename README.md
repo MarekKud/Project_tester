@@ -13,7 +13,8 @@ The device is originally used to test simple digital circuits.The design also in
 - Schematic capture software : Altium 
 - Microcontrollers :STM32F407VGT6
 # Diagram 
-![Diagram](https://github.com/MarekKud/Project_tester/assets/92340461/86a78813-ada8-4112-a0d4-2716a64fb2dc)
+![Diagram](https://github.com/MarekKud/Project_tester/assets/92340461/4835aaf9-0fe6-4ffc-ad3a-9558c515e14d)
+
 
 
 # PCB
