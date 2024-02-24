@@ -19,6 +19,7 @@ The device is originally used to test simple digital circuits.The design also in
 
 ![IMG_20240224_093706](https://github.com/MarekKud/Project_tester/assets/92340461/b58ae998-3464-49aa-8576-70949fa167a4)
 
+![IMG_20240224_094912](https://github.com/MarekKud/Project_tester/assets/92340461/8e2f51ac-0d01-44c3-94eb-8f3245966bec)
 
 
 # PCB
