@@ -14,6 +14,9 @@ The device is originally used to test simple digital circuits.The design also in
 - Microcontrollers :STM32F407VGT6
 # Diagram 
 ![Diagram](https://github.com/MarekKud/Project_tester/assets/92340461/4835aaf9-0fe6-4ffc-ad3a-9558c515e14d)
+# Real 
+![IMG_20240224_093706](https://github.com/MarekKud/Project_tester/assets/92340461/b8985673-0f7e-4350-93a6-ed1800fd6be7)
+
 
 
 
