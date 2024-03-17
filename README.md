@@ -16,6 +16,7 @@ The device is originally used to test simple digital circuits.The design also in
 # Diagram 
 ![Diagram](https://github.com/MarekKud/Project_tester/assets/92340461/4835aaf9-0fe6-4ffc-ad3a-9558c515e14d)
 # Real 
+![IMG_20240317_131754](https://github.com/MarekKud/Project_tester/assets/92340461/b34fb949-9609-46c7-a192-3c47c959b910)
 
 
 ![IMG_20240224_093706rozmycie](https://github.com/MarekKud/Project_tester/assets/92340461/151c2cdf-b21d-4027-a938-51213103a875)
